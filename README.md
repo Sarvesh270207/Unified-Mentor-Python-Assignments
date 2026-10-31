@@ -6,6 +6,7 @@ This repository contains Python assignments completed as part of my Data Analyst
 1. Python Basics
 
 Printing and Variables
+
 Data Types and Type Checking
 Arithmetic, Comparison, and Logical Operators
 Conditional Statements (if, elif, else)
