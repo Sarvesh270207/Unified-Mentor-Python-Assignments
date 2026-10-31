@@ -5,24 +5,24 @@ This repository contains Python assignments completed as part of my Data Analyst
 
 1. Python Basics
 
-Printing and Variables
-
-Data Types and Type Checking
-Arithmetic, Comparison, and Logical Operators
-Conditional Statements (if, elif, else)
-for and while Loops
-break and continue
-String Indexing, Slicing, and Methods
-Functions, Arguments, and Return Values
-Global and Local Variable Scope
+Printing and Variables, 
+Data Types and Type Checking, 
+Arithmetic, Comparison, and Logical Operators, 
+Conditional Statements (if, elif, else), 
+for and while Loops, 
+break and continue, 
+String Indexing, Slicing, and Methods, 
+Functions, Arguments, and Return Values, 
+Global and Local Variable Scope.
 
 
 2. Python Data Structures
 
-Lists: Creation, Indexing, Appending, Inserting, Extending, Sorting, and Slicing
-Sets: Duplicate Removal, Adding and Removing Elements, Union, Intersection, and Difference
-Tuples: Creation, Iteration, Conversion, and Immutability
-Dictionaries: Key-Value Access, Updating, Iteration, and Character Frequency Counting
+Lists: Creation, Indexing, Appending, Inserting, Extending, Sorting, and Slicing. 
+Sets: Duplicate Removal, Adding and Removing Elements, Union, Intersection, and Difference. 
+Tuples: Creation, Iteration, Conversion, and Immutability. 
+Dictionaries: Key-Value Access, Updating, Iteration, and Character Frequency Counting. 
+
 
 These assignments represent my practical learning and consistent effort to improve my programming and problem-solving skills. I am using this repository to document my progress, reinforce my understanding of Python, and build a foundation for working with data using tools such as NumPy and Pandas.
 
